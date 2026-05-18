@@ -12,7 +12,7 @@ Gnomintosh Ventura is a macOS 13 Ventura-inspired desktop environment configurat
 <img width="1920" height="1080" alt="Light" src="https://github.com/user-attachments/assets/b845df2b-4dc1-4f40-9ee9-b1e7b95ceb0a" />
 
 ## How to install?
-Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < extensions.dconf then download the wallpaper Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos then download the icons and theme below in "Credits".
+Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < Gnomintosh_extensions.conf then download the wallpaper Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos then download the icons and theme below in "Credits".
 
 ## Credits
 * https://github.com/vinceliuice/MacTahoe-gtk-theme
